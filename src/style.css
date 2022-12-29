@@ -1,0 +1,19 @@
+h1,
+p {
+    font-family: Lato;
+}
+
+.style {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.viewtable {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

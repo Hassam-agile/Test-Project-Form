@@ -1,0 +1,27 @@
+.form {
+    width: 50%;
+    height: 80%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.name {
+    width: 50%;
+    margin-top: 1rem;
+}
+
+.age {
+    width: 50%;
+    margin-top: 1rem;
+}
+
+.button {
+    width: 30%;
+    margin-top: 1rem;
+}

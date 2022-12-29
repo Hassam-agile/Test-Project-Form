@@ -1,0 +1,50 @@
+.flex {
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.form {
+    width: 50%;
+    height: 80%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.name {
+    width: 50%;
+    margin-top: 1rem;
+}
+
+.age {
+    width: 50%;
+    margin-top: 1rem;
+}
+
+.button {
+    width: 30%;
+    margin-top: 1rem;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+/* tr:nth-child(even) {
+    background-color: #dddddd;
+} */
